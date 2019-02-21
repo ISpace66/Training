@@ -1,0 +1,15 @@
+.navbar-default {
+    background-color: #ff9900;
+    border-color: #ff9900;
+    color: #ff9900;
+
+}
+.nav.navbar-nav li a {
+    color: #ffffff;
+}
+.color-me{
+    color: #ffffff;
+}
+.navbar-brand {
+    color: #ffffff  !important;
+}
