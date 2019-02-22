@@ -42,7 +42,7 @@
       <br>
       <b><p>Néhány ok, amiért szívesen választják könyvelő irodámat:</p>
       <ul class="list-group list-group-flush">
-  <li class="list-group-item">•	10 év szakmai tapasztalat és rutin</li>
+  <li class="list-group-item">•	12 év szakmai tapasztalat és rutin</li>
   <li class="list-group-item">•	Kölcsönös bizalom, ami nem csak szó, ügyfeleim meg is éreznek.</li>
   <li class="list-group-item">•	Szolgáltatásom több mint könyvelés, konzultáció és szakmai tanácsadás is egyben.</li>
   <li class="list-group-item">•	Laikus számára is érhető nyelven beszélek, nem számviteli szakzsargonban.</li>
