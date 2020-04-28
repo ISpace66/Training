@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 it is not cool!
+=======
+that'S cool!
+>>>>>>> realwork
