@@ -1,5 +1,3 @@
-<<<<<<< HEAD
+stash
 it is not cool!
-=======
 that'S cool!
->>>>>>> realwork
